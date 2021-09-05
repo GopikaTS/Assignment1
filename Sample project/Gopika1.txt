@@ -1,4 +1,1 @@
 First file is added in mynewbranch1
-Hey i found out my file
-Really it is interesting
-inside sub directory i have created the file
