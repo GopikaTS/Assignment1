@@ -1,1 +1,2 @@
 Going To add New line
+File is opened and i added a new line without using the echo command , I have opned with the help of notepad++
